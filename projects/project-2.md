@@ -30,7 +30,7 @@ summary: A Python game that was developed under FreeCodeCamp's tutorial.
   I learned a lot while making the pong game. I learned more in depth of how programming objects to move in python is coded by the amount of pixels you want it to move. Also, it helped me understand the syntax of Python and how it's different from other programming languages I've done. Hopefully, in the future, I'll use Python to create a Machine Learning Program using TensorFlow. 
 
 
-You can learn more at the [GitHub Repositories Website](https://github.com/cjsiador/final-project-pokemon-gui-f19-final-project-group-5-developChristian).
+Source: <a href="https://www.youtube.com/watch?v=C6jJg9Zan7w"></i>Python Game Tutorial: Pong by freeCodeCamp.org</a>
 
 
 
