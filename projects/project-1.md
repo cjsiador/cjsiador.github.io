@@ -1,44 +1,36 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/Project1-3.PNG
+title: Pokemon GO Java
+permalink: projects/pokemon-go-java
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-12-07
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Game
+  - Group Project
+  
+summary: My team developed a simple Pokemon GO game with Java's GUI function that allows either capture or escape from nine random Pokemon,
 ---
 
+
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Project1-2.PNG">
+  <img class="ui image" src="../images/Project1.PNG">
+  <img class="ui image" src="../images/Project1-3.PNG">
+  
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+  Pokemon GO Java is a game to demonstrate Java GUI, polymorphism (Pokemon’s Evolution), and a game feature that allows players a chance to either catch a random generated Pokemon or the Pokemon will escape. Java GUI was used to display the game’s function. Whenever the player clicks the hunt button, a notification window pops up with a random Pokemon. Players have an option of either catch it or run away. However, trying to catch it isn’t guaranteed and it’ll escape. The polymorphism allows the second and third evolution Pokemon (for example, Charmander’s 2nd evolution is Charmeleon and Charzard is the 3rd evolution) to inherit attributes and methods down to the first evolution. 	
 
-Here is some code that illustrates how we read values from the line sensors:
+  For this program, I was responsible for designing the GUI and Charmander’s evolution class. I started programming the parent class (Charmander) with stats based on Pokemon GO wiki stats. While designing the GUI, I program a function where the player clicks the “hunt” button, a random Pokemon would appear in a popup window. This was coded using a random generator between 1 - 9 and each Pokemon are designated by their Pokedex Number through a switch case in a addActionListener() function. If the Pokemon were to be caught, it’ll be stored in an array and will display its stats, type, and the name of that Pokemon. 
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+  Throughout this project, I learned more about working with a group. I found that it’s important that people should be given roles and responsibilities so that way it’ll become organized and straightforward. Additionally, I was able to understand other coding styles from my peers and because of this, it’ll help me implement different coding styles for future projects. Lastly, I learned more about how hierarchy and polymorphism work in Java and new fundamentals for writing Java GUI.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
+You can learn more at the [GitHub Repositories Website](https://github.com/cjsiador/final-project-pokemon-gui-f19-final-project-group-5-developChristian).
 
 
 
