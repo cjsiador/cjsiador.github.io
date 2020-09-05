@@ -11,7 +11,6 @@ labels:
   - Cryptosecurity
   - SSH
   - Terminal
-  
 summary: A HASH function that converts a text file with characters into 160-bit hash value.
 ---
 
