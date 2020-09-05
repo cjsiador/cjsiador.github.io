@@ -8,8 +8,6 @@ labels:
   - JavaScript
   - Learning
 ---                               
-                                           
-                                                                         Learning JavaScript In a Day
 
   I found that learning new programming languages gives me the same dopamine as staying up all night programming. The stimulation of excitement and learning new features provides a mentality of  doing certain things that other programming languages that don't have the capability of doing. I believe that JavaScript has a lot of potential for creativity, mainly as a web application.  
 
