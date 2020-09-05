@@ -1,25 +1,27 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/SHA-1.png
+title: SHA-1
+permalink: projects/sha-1
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-4-25
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C Language
+  - Cryptosecurity
+  - SSH
+  - Terminal
+  
+summary: A HASH function that converts a text file with characters into 160-bit hash value.
 ---
+
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+  SHA-1 HASH is a program that takes an input and produces a message digest (160-bit hash value). It was an ICS 212 final project and it was written in a C program. The program itself will convert any text files that contain any written letters (max of 1,048,576 chars) and convert them into 160-bit hash value. The SHA-1 algorithm was supposed to be secure, however, it was proven to be theoretically vulnerable to attack by other specialists, therefore, not secure at all.
+  
+  We were given a pseudocode for SHA-1 and our objective was to convert it into a C program. There are five functions written in the program. The first function is to read the text file and convert them into bits while appending the 1 bit at the end of the message. Then, calculateBlock() will calculate how many blocks (512 bits) of a file and then it returns a blockCount. After that, it passes to a function that converts the char array into an int array which allows it to be passed into the message digest that will produce a 160-bit value. This program took around two weeks to complete.
+  
+   During this project, I learned more about C programming such as pointers, SHA-1, pseudocode, and how to use SSH. I learned that the C program is very good with manipulating the data with pointer references. Furthermore, I also learned a little more about how SHA-1 works. Lastly, I learned more how to use SSH and how to use a command prompt. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+You can learn more at the [GitHub Repositories Website](https://github.com/cjsiador/SHA-1-in-C-Language).
