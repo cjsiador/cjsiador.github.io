@@ -4,8 +4,9 @@ type: essay
 title: For The Future
 date: 2020-09-03
 lables:
-  - Software Engineering
-  - Goals
+  - software engineering
+  - goals
+  
 ---              
 
 
