@@ -12,7 +12,7 @@ labels:
   - VS Code Studio
   
 summary: A Python game that was developed under FreeCodeCamp's tutorial.
-
+---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Project1-2.PNG">
