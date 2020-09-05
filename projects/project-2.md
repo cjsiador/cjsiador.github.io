@@ -1,26 +1,36 @@
 ---
 layout: project
 type: project
-image: images/SHA-1.png
-title: SHA-1
-permalink: projects/sha1
+image: images/Project1-3.PNG
+title: Pokemon GO Java
+permalink: projects/pokemon-go-java
 # All dates must be YYYY-MM-DD format!
-date: 2020-4-25
+date: 2019-12-07
 labels:
-  - C Language
-  - Cryptosecurity
-  - SSH
-  - Terminal
-summary: A HASH function that converts a text file with characters into 160-bit hash value.
+  - Java
+  - Game
+  - Group Project
+  
+summary: My team developed a simple Pokemon GO game with Java's GUI function that allows either capture or escape from nine random Pokemon,
 ---
 
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Project1-2.PNG">
+  <img class="ui image" src="../images/Project1.PNG">
+  <img class="ui image" src="../images/Project1-3.PNG">
+  
+</div>
 
-  SHA-1 HASH is a program that takes an input and produces a message digest (160-bit hash value). It was an ICS 212 final project and it was written in a C program. The program itself will convert any text files that contain any written letters (max of 1,048,576 chars) and convert them into 160-bit hash value. The SHA-1 algorithm was supposed to be secure, however, it was proven to be theoretically vulnerable to attack by other specialists, therefore, not secure at all.
-  
-  We were given a pseudocode for SHA-1 and our objective was to convert it into a C program. There are five functions written in the program. The first function is to read the text file and convert them into bits while appending the 1 bit at the end of the message. Then, calculateBlock() will calculate how many blocks (512 bits) of a file and then it returns a blockCount. After that, it passes to a function that converts the char array into an int array which allows it to be passed into the message digest that will produce a 160-bit value. This program took around two weeks to complete.
-  
-   During this project, I learned more about C programming such as pointers, SHA-1, pseudocode, and how to use SSH. I learned that the C program is very good with manipulating the data with pointer references. Furthermore, I also learned a little more about how SHA-1 works. Lastly, I learned more how to use SSH and how to use a command prompt. 
- 
-You can learn more at the [GitHub Repositories Website](https://github.com/cjsiador/SHA-1-in-C-Language).
+
+  Pokemon GO Java is a game to demonstrate Java GUI, polymorphism (Pokemon’s Evolution), and a game feature that allows players a chance to either catch a random generated Pokemon or the Pokemon will escape. Java GUI was used to display the game’s function. Whenever the player clicks the hunt button, a notification window pops up with a random Pokemon. Players have an option of either catch it or run away. However, trying to catch it isn’t guaranteed and it’ll escape. The polymorphism allows the second and third evolution Pokemon (for example, Charmander’s 2nd evolution is Charmeleon and Charzard is the 3rd evolution) to inherit attributes and methods down to the first evolution. 	
+
+  For this program, I was responsible for designing the GUI and Charmander’s evolution class. I started programming the parent class (Charmander) with stats based on Pokemon GO wiki stats. While designing the GUI, I program a function where the player clicks the “hunt” button, a random Pokemon would appear in a popup window. This was coded using a random generator between 1 - 9 and each Pokemon are designated by their Pokedex Number through a switch case in a addActionListener() function. If the Pokemon were to be caught, it’ll be stored in an array and will display its stats, type, and the name of that Pokemon. 
+
+  Throughout this project, I learned more about working with a group. I found that it’s important that people should be given roles and responsibilities so that way it’ll become organized and straightforward. Additionally, I was able to understand other coding styles from my peers and because of this, it’ll help me implement different coding styles for future projects. Lastly, I learned more about how hierarchy and polymorphism work in Java and new fundamentals for writing Java GUI.
+
+
+You can learn more at the [GitHub Repositories Website](https://github.com/cjsiador/final-project-pokemon-gui-f19-final-project-group-5-developChristian).
+
+
+
