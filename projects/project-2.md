@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Project2.PNG
+image: images/Pong.PNG
 title: Python PONG Game
 permalink: projects/python-pong-game
 # All dates must be YYYY-MM-DD format!
@@ -16,9 +16,9 @@ summary: A Python game that was developed under FreeCodeCamp's tutorial.
 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Project1-2.PNG">
-  <img class="ui image" src="../images/Project1.PNG">
-  <img class="ui image" src="../images/Project1-3.PNG">
+
+  <img class="ui image" src="../images/Pong.PNG">
+
   
 </div>
 
