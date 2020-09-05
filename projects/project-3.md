@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Project3.PNG
+image: images/Project2.PNG
 title: SHA-1
 permalink: projects/SHA-1
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ summary: My team developed a simple Pokemon GO game with Java's GUI function tha
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Project3.PNG">
+  <img class="ui image" src="../images/Project2.PNG">
 </div>
 
   SHA-1 HASH is a program that takes an input and produces a message digest (160-bit hash value). It was an ICS 212 final project and it was written in a C program. The program itself will convert any text files that contain any written letters (max of 1,048,576 chars) and convert them into 160-bit hash value. The SHA-1 algorithm was supposed to be secure, however, it was proven to be theoretically vulnerable to attack by other specialists, therefore, not secure at all. 	
