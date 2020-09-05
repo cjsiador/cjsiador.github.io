@@ -11,7 +11,7 @@ labels:
   - Cryptosecurity
   - SSH
   
-summary: My team developed a simple Pokemon GO game with Java's GUI function that allows either capture or escape from nine random Pokemon,
+summary: A HASH function that converts a text file with characters into 160-bit hash value.
 ---
 
 <div class="ui small rounded images">
