@@ -3,10 +3,10 @@ layout: essay
 type: essay
 title: For The Future
 date: 2020-09-03
-lables:
-  - software engineering
-  - goals
----              
+labels:
+  - Software Engineering
+  - Learning
+---
 
 
    When I was in High School, my STEM teacher emphasized how important Computer Science is. He taught us some information about algorithms, cyber security, and how to program HTML - CSS - JavaScript such as making headers and for loop. One day, he gave us an assignment to create a webpage using the three programming languages. I became so obsessed with creating my very own HTML website that I decided to do more research on what I can do for programming my website. It had CSS animations and video/audio played on my website. It made me realize that creating new things through the computer is something that made me very passionate about programming. I guess if it wasn’t for my STEM teacher, I would have graduated with a Liberal Arts degree instead of Computer Science. 
