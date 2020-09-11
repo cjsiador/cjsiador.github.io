@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Redacted Questions
 date: 2020-09-10
-lables:
+labels:
   - Open Source
   - stackOverflow
 ---              
