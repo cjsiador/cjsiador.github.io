@@ -6,7 +6,6 @@ date: 2020-09-03
 lables:
   - software engineering
   - goals
-  
 ---              
 
 
