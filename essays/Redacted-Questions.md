@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: [Redacted] Questions
+title: Redacted Questions
 date: 2020-09-10
-labels:
+lables:
   - Open Source
   - stackOverflow
-  - Learning
   
----         
+---              
+
 
 Throughout programming, we’ll encounter bugs that we don’t understand. Typically, our solution is usually solved through Googling our problem. Either it’s through a website or existing questions on stackoverflow. However, it’s unfortunate that we’ll encounter no answers at all or “bad” questions that've been locked down. In result, we may have to push ourselves to ask others for help. Although, how should we approach this dilemma? Asking a question isn’t necessarily a bad thing, however, it’s usually how it’s asked that’s considered as a bad question. 
 
