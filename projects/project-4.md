@@ -21,7 +21,4 @@ My role for this project is to create a filter system whereas it filters the cat
 
 The outcome of this project was not only learning about creating a website, but also working as a team. I learned that it’s important to have a leader, or a project manager within a team. Without it, there could be some loose ends and miscommunication. It’s important to set meetings to discuss problems pertaining to the project, but it’s also important to have a bond between the other members. It was hard for me to communicate where we knew little about each other where it was a bit uncomfortable. However, as time went on, it became easier to be more comfortable where we all talk about stuff not related to the project. 
 
-You can view the project at the Manoa Clubs Finder.
-
-
 You can learn more at [manoa-clubs-finder.github.io](https://manoa-clubs-finder.github.io/).
