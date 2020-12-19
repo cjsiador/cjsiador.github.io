@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/Pong.PNG
+image: images/website-project.jpg
 title: Manoa Clubs Finder
-permalink: projects/website-project
+permalink: projects/manoa-clubs-finder
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
 labels:
