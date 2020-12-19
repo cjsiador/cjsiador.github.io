@@ -11,7 +11,7 @@ labels:
   - Web Application
   - GitHub
   
-summary: A web application that was created by me and three other members.
+summary: A web application that was created by me and two other members.
 ---
 
 Our journey has come to an end as a new chapter ascends. From here on out, I won’t have any doubts. But, when time has come, I’ll give it a shout. Throughout 2020, it was a very difficult time of year, but it’ll never stop me from learning new things. I realized that online format gave me the ability to be more productive and time to study, however, there were some challenges I’ve faced out of fear of the outdoors and the feeling of isolation. Though, I was able to combat the challenge of isolation with the help of connecting with other students as a community and work in a team of three. 
