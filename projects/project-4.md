@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Pong.PNG
 title: Manoa Clubs Finder
-permalink: projects/python-pong-game
+permalink: projects/website-project
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
 labels:
