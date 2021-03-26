@@ -71,17 +71,36 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii: Manoa, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2022)",
       "studyType": "B.S.",
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": [ "ICS 311: Algorithms",
+                  "ICS 314: Software Engineering I"
       ]
     }
   ],
    
+  "education": [
+    {
+      "institution": "University of Hawaii: Kapi'olani Community College, Honolulu, HI",
+      "area": "A.S., Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2017-09-01",
+      "endDate": "2020-18-05",
+      "gpa": "",
+      "courses": [ "ICS 111: Intro to Computer Science",
+                  "ICS 211: Intro to Computer Science",
+                  "ICS 212: Program Structure",
+                  "ICS 141: DIscrete Math for Comp Sci I",
+                  "ICS 241: Discrete Math for Comp Sci II",
+                  "MATH 241: Calculus I",
+                  "MATH 242: Calculus II",
+      ]
+    }
+  ],
   "references": [
     {
       "name": "Available upon request",
