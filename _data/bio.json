@@ -80,10 +80,7 @@
       "courses": [ "ICS 311: Algorithms",
                   "ICS 314: Software Engineering I"
       ]
-    }
-  ],
-   
-  "education": [
+    },
     {
       "institution": "University of Hawaii: Kapi'olani Community College, Honolulu, HI",
       "area": "A.S., Computer Science",
