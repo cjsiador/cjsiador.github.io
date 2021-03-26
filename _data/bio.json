@@ -54,7 +54,12 @@
         "Java",
         "Javascript",
         "SSH",
-        "Data Structure"
+        "Data Structure",
+        "Meteor",
+        "React",
+        "HTML",
+        "CSS",
+        "Python"
       ]
     },
     {
@@ -66,6 +71,8 @@
         "Git/GitHub",
         "g++",
         "SSH"
+        "Visual Studio IDE",
+        "Intellij"
       ]
     }
   ],
